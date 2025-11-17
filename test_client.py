@@ -15,7 +15,7 @@ def test_currency_converter():
         print(response.json())
     else:
         print("Response not in JSON format")
-    # return response.json()
+
 
 
 if __name__ == "__main__":
